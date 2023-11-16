@@ -2,6 +2,9 @@
 
 A lightweight software that monitors most (all?) changes made to files in a folder (creation, deletion, renaming, modification).
 
+### Download link : https://github.com/IdefaSoft/VigiFolder/releases/download/v1/VigiFolder.exe  
+[![Github All Releases](https://img.shields.io/github/downloads/IdefaSoft/VigiFolder/total.svg?label=Downloads)]()
+
 ## Features
 
 - Display in different colors, button to clear all logs
