@@ -7,6 +7,7 @@ A lightweight software that monitors most (all?) changes made to files in a fold
 
 ## Features
 
+- French/English interface
 - Display in different colors, button to clear all logs
 - Option to include or exclude subfolders
 - Possibility to export in RTF
