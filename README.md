@@ -5,6 +5,8 @@ A lightweight software that monitors most (all?) changes made to files in a fold
 ### Download link : https://github.com/IdefaSoft/VigiFolder/releases/download/v1/VigiFolder.exe  
 [![Github All Releases](https://img.shields.io/github/downloads/IdefaSoft/VigiFolder/total.svg?label=Downloads)]()
 
+## VigiFolder also exists for [Linux](https://github.com/felix068/VigiFolder-Linux)
+
 ## Features
 
 - French/English interface
